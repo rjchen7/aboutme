@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li,
+a,
+button,
+div {
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 16px;
+  color: #edf0f1;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 15px;
+  background-color: #0a1e2c;
+}
+
+.name {
+  color: whitesmoke;
+  font-size: 20px;
+  font-family: 'Ubuntu';
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  vertical-align: middle;
+}
+
+.seal {
+  max-width: 55px;
+  height: auto;
+  vertical-align: middle;
+  text-align: flex-end;
+  padding-right: 20px;
+}
+
+.navlinks {
+  list-style: none;
+}
+
+.navlinks li {
+  display: inline-block;
+  justify-content: flex-start;
+  padding: 0px 10px;
+}
+
+.navlinks li a {
+  transition: all 0.3s ease 0s;
+}
+
+.navlinks li a:hover {
+  color: rgba(101, 160, 177, 0.8);
+}
+
+button {
+  margin-left: 20px;
+  padding: 9px 25px;
+  background-color: rgb(150, 181, 211);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+.contact {
+  list-style: none;
+}
+
+button:hover {
+  background-color: rgba(101, 160, 177, 0.8);
+}
+
+.divider {
+  height: 1px;
+  background-color: rgb(150, 181, 211);
+  opacity: 0.4;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.textHeading {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 60px;
+  color: rgba(65, 136, 194, 0.8);
+  text-align: left;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+.textBody {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: black;
+  padding-left: 100px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+  padding-top: 20px;
+}
+
+.contactInfo {
+  font-family: 'Roboto';
+  color: rgba(72, 96, 116, 0.8);
+  font-size: 20px;
+  border-bottom: 1px dotted #000;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  color: rgba(101, 160, 177, 0.8);
+}
+
+.contact a {
+  transition: all 0.3s ease 0s;
+}

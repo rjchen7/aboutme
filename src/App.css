@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.TopName {
+  background-color: #282c34;
+  text-align: right;
+  color: whitesmoke;
+  vertical-align: middle;
+  font-size: 5mm;
+  font-weight: bold;
+  font-family: 'Helvetica Neue';
+  padding-top: 1mm;
+  padding-bottom: 2mm;
+  padding-right: 3mm;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  justify-content: left;
+  color: whitesmoke;
+  vertical-align: middle;
+  align-items: center;
+}
