@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9a2b7d6e.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.30ecdea0.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.30ecdea0.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.7854c521.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.1d66e3cc.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.1d66e3cc.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.a76e99a0.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.a76e99a0.js.map",
-    "static/js/2.1b467007.chunk.js": "/react-gh-pages/static/js/2.1b467007.chunk.js",
-    "static/js/2.1b467007.chunk.js.map": "/react-gh-pages/static/js/2.1b467007.chunk.js.map",
+    "static/js/2.2ce33de9.chunk.js": "/react-gh-pages/static/js/2.2ce33de9.chunk.js",
+    "static/js/2.2ce33de9.chunk.js.map": "/react-gh-pages/static/js/2.2ce33de9.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.12f0995262f50d790ae8cef4d03bcdc7.js": "/react-gh-pages/precache-manifest.12f0995262f50d790ae8cef4d03bcdc7.js",
+    "precache-manifest.08eff7f1bb76a6a865944a1ecfc03ac2.js": "/react-gh-pages/precache-manifest.08eff7f1bb76a6a865944a1ecfc03ac2.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.9a2b7d6e.chunk.css.map": "/react-gh-pages/static/css/main.9a2b7d6e.chunk.css.map",
+    "static/css/main.7854c521.chunk.css.map": "/react-gh-pages/static/css/main.7854c521.chunk.css.map",
     "static/media/BerkeleySeal.png": "/react-gh-pages/static/media/BerkeleySeal.c6cf8d3a.png",
-    "static/media/China.jpg": "/react-gh-pages/static/media/China.e7c29633.jpg",
-    "static/media/Emily.png": "/react-gh-pages/static/media/Emily.2afb91fa.png",
-    "static/media/GradPhoto.png": "/react-gh-pages/static/media/GradPhoto.d32a9299.png",
-    "static/media/Jordans.png": "/react-gh-pages/static/media/Jordans.7d779f8f.png",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.25bf045c.svg"
+    "static/media/air_drake.jpg": "/react-gh-pages/static/media/air_drake.241ed0a0.jpg",
+    "static/media/campanile.jpg": "/react-gh-pages/static/media/campanile.0b6c1456.jpg",
+    "static/media/darkblue-background.jpg": "/react-gh-pages/static/media/darkblue-background.10fe428c.jpg",
+    "static/media/self_portrait.jpg": "/react-gh-pages/static/media/self_portrait.3b951bfb.jpg"
   }
 }
