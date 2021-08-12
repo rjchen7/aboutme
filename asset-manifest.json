@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mypage/static/css/main.f3c4cfd2.chunk.css",
-    "main.js": "/mypage/static/js/main.f327eb82.chunk.js",
-    "main.js.map": "/mypage/static/js/main.f327eb82.chunk.js.map",
-    "runtime-main.js": "/mypage/static/js/runtime-main.e1a21f69.js",
-    "runtime-main.js.map": "/mypage/static/js/runtime-main.e1a21f69.js.map",
-    "static/js/2.9e2f4ef3.chunk.js": "/mypage/static/js/2.9e2f4ef3.chunk.js",
-    "static/js/2.9e2f4ef3.chunk.js.map": "/mypage/static/js/2.9e2f4ef3.chunk.js.map",
-    "index.html": "/mypage/index.html",
-    "precache-manifest.4d88097bf9ae6dbe1e13e0456b509512.js": "/mypage/precache-manifest.4d88097bf9ae6dbe1e13e0456b509512.js",
-    "service-worker.js": "/mypage/service-worker.js",
-    "static/css/main.f3c4cfd2.chunk.css.map": "/mypage/static/css/main.f3c4cfd2.chunk.css.map",
-    "static/media/BerkeleySeal.png": "/mypage/static/media/BerkeleySeal.c6cf8d3a.png",
-    "static/media/air_drake.jpg": "/mypage/static/media/air_drake.241ed0a0.jpg",
-    "static/media/campanile.jpg": "/mypage/static/media/campanile.0b6c1456.jpg",
-    "static/media/darkblue-background.jpg": "/mypage/static/media/darkblue-background.10fe428c.jpg",
-    "static/media/self_portrait.jpg": "/mypage/static/media/self_portrait.3b951bfb.jpg"
+    "main.css": "/aboutme/static/css/main.f3c4cfd2.chunk.css",
+    "main.js": "/aboutme/static/js/main.cc4bc582.chunk.js",
+    "main.js.map": "/aboutme/static/js/main.cc4bc582.chunk.js.map",
+    "runtime-main.js": "/aboutme/static/js/runtime-main.84c8bb2d.js",
+    "runtime-main.js.map": "/aboutme/static/js/runtime-main.84c8bb2d.js.map",
+    "static/js/2.9f122075.chunk.js": "/aboutme/static/js/2.9f122075.chunk.js",
+    "static/js/2.9f122075.chunk.js.map": "/aboutme/static/js/2.9f122075.chunk.js.map",
+    "index.html": "/aboutme/index.html",
+    "precache-manifest.162f13024550b888ca89ff50115eb29f.js": "/aboutme/precache-manifest.162f13024550b888ca89ff50115eb29f.js",
+    "service-worker.js": "/aboutme/service-worker.js",
+    "static/css/main.f3c4cfd2.chunk.css.map": "/aboutme/static/css/main.f3c4cfd2.chunk.css.map",
+    "static/media/BerkeleySeal.png": "/aboutme/static/media/BerkeleySeal.c6cf8d3a.png",
+    "static/media/air_drake.jpg": "/aboutme/static/media/air_drake.241ed0a0.jpg",
+    "static/media/campanile.jpg": "/aboutme/static/media/campanile.0b6c1456.jpg",
+    "static/media/darkblue-background.jpg": "/aboutme/static/media/darkblue-background.10fe428c.jpg",
+    "static/media/self_portrait.jpg": "/aboutme/static/media/self_portrait.3b951bfb.jpg"
   }
 }
